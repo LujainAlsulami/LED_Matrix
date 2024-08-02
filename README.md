@@ -21,10 +21,12 @@ LED Matrix Connections:
 4-The CS in LED Matrix is to Pin 11 in the Arduino board.
 5-The CLK in LED Matrix is to Pin 10 in the Arduino board.
 
-
-
 output:
+
+
+
 ![Screenshot 2024-08-02 224758](https://github.com/user-attachments/assets/21017262-0476-4b96-8e91-56da05a631a8)
+
 
 
 ![Screenshot 2024-08-02 224744](https://github.com/user-attachments/assets/67e11d10-0794-46fa-a7e3-30c036de40f6)
