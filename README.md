@@ -19,10 +19,14 @@ Step three:
 
 LED Matrix Connections:
 
-1-The GND in the LED Matrix is to the GND in the Arduino board. 
+1-The GND in the LED Matrix is to the GND in the Arduino board.
+
 2-The VCC in LED Matrix is to the 5V in the Arduino board.
+
 3-The DIN in LED Matrix is to Pin 12 in the Arduino board.
+
 4-The CS in LED Matrix is to Pin 11 in the Arduino board.
+
 5-The CLK in LED Matrix is to Pin 10 in the Arduino board.
 
 output:
