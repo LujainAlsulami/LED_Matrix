@@ -2,8 +2,10 @@
 This repository includes designing a robot mouth using an 8x8 LED Matrix. I designed two expressions one for the smiley face and the other for talking to solve the problem of the interactivity to the robot.
 
 
+
 Step one:
 Design the robot mouth using the 8x8 LED Matrix.  
+
 
 
 Step two:
