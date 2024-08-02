@@ -4,17 +4,21 @@ This repository includes designing a robot mouth using an 8x8 LED Matrix. I desi
 
 
 Step one:
+
 Design the robot mouth using the 8x8 LED Matrix.  
 
 
 
 Step two:
+
 Write the code to display each expression.
 
 
 
 Step three:
+
 LED Matrix Connections:
+
 1-The GND in the LED Matrix is to the GND in the Arduino board. 
 2-The VCC in LED Matrix is to the 5V in the Arduino board.
 3-The DIN in LED Matrix is to Pin 12 in the Arduino board.
